@@ -1,8 +1,6 @@
 # Academic Integrity Notice
 
-**For academic use, DO NOT COPY! **
-
-Please be aware that while this repository is public, the code and content within it are meant for educational and demonstration purposes only. **Copying or using this code for academic submissions is strictly prohibited and violates academic integrity policies.** By using this code, you agree to do so responsibly and ethically. As the author, I am not responsible for any violations of academic integrity or any consequences resulting from improper use of the material in this repository.
+**For academic use, DO NOT COPY!** Please be aware that while this repository is public, the code and content within it are meant for educational and demonstration purposes only. **Copying or using this code for academic submissions is strictly prohibited and violates academic integrity policies.** By using this code, you agree to do so responsibly and ethically. As the author, I am not responsible for any violations of academic integrity or any consequences resulting from improper use of the material in this repository.
 ## § 1‑402 Academic Integrity Infractions
 
 1. **Cheating.** No student shall use or attempt to use in any academic exercise materials, information, study aids, or electronic data that the student knows or should know is unauthorized.
